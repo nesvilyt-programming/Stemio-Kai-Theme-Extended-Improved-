@@ -42,3 +42,8 @@ Main player is redesigned like in glass theme with visual improvements.
 &nbsp;
 <img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/ad10e6f8-53e6-4005-b639-31d959371eb4" />
 Small makeup in settings section to look more modern.
+
+&nbsp;
+
+&nbsp;
+WHAT DO YOU THINK PEOPLE?
