@@ -11,7 +11,7 @@ Posters with year, duration and imdb rating on top, 3D animation with mouse cove
 
 &nbsp;
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/5a503946-c4f9-482a-896e-62fc373f9e9c" />
-Episodes with a lot of changes, improvements and animations (on logo, actors etc....).
+Episodes with a lot of changes, improvements and animations (on logo, actors, etc....).
 
 &nbsp;
 
