@@ -17,7 +17,7 @@ Episodes with a lot of changes, improvements and animations (on logo, actors etc
 
 &nbsp;
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/319b61a3-7ff8-4337-815c-a498b11a3c3a" />
-Added similar movies/series section on bottom with omdb rating.
+Added similar movies/series section on bottom with imdb rating.
 
 &nbsp;
 
