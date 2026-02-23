@@ -5,7 +5,7 @@ HOMEPAGE with a redesigned scrollable hero banner.
 
 &nbsp;
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/865f24a8-14bc-4d14-bb64-d00176ad5894" />
-Posters with year, duration and imdb rating on top, animation 3d with mouse cover and midnight elite look theme caled Stremio Nash
+Posters with year, duration and imdb rating on top, 3D animation with mouse cover on it and midnight elite look theme called Stremio Nash
 
 &nbsp;
 
