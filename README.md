@@ -46,4 +46,4 @@ Small makeup in settings section to look more modern.
 &nbsp;
 
 &nbsp;
-WHAT DO YOU THINK PEOPLE?
+WHAT DO YOU THINK PEOPLE?  Tested on 1920x1080 resolution, but i think it also work good on others resolutions.
