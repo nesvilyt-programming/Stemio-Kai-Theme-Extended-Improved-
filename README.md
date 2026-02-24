@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/492271ca-4693-44f7-b69b-a1995547e1ee" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/0076f00a-ecfd-4608-9e00-1ee898f435de" />
 HOMEPAGE with a redesigned scrollable hero banner.
 
 &nbsp;
@@ -10,7 +10,7 @@ Posters with year, duration and imdb rating on top, 3D animation with mouse cove
 &nbsp;
 
 &nbsp;
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/5a503946-c4f9-482a-896e-62fc373f9e9c" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/9d5f19f9-186c-4efc-86f3-5dadb4529118" />
 Episodes with a lot of changes, improvements and animations (on logo, actors, etc....).
 
 &nbsp;
